@@ -1,2 +1,2 @@
 # Theme
-My Themes
+Simple yet, Satisfying.
